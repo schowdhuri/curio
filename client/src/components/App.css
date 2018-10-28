@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #f9f9f9;
+}
+
+@media all and (min-width: 800px) {
+    html, body {
+        color: #404041;
+        /*font-size: 14px;*/
+    }
+}
